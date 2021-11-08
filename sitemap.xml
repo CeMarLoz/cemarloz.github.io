@@ -1,21 +1,37 @@
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><? xml version = "1.0" encoding = "UTF-8"?> </font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-<urlset xmlns = "http://www.sitemaps.org/schemas/sitemap/0.9"> </font></font><font></font>
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  <loc> http://cemarloz.github.io/index.html </loc>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  <loc> http://cemarloz.github.io/shop.html </loc>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  <loc> http://cemarloz.github.io/contact.html </loc>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  <loc> http://cemarloz.github.io/about.html </loc>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  <loc> http://cemarloz.github.io/cart.html </loc>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><url>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  <loc> http://cemarloz.github.io /product-single.html </loc>
- </font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></url>
-</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></urlset></font></font>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://cemarloz.github.io/</loc>
+  <lastmod>2021-11-08T23:11:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cemarloz.github.io/index.html</loc>
+  <lastmod>2021-11-08T23:11:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cemarloz.github.io/shop.html</loc>
+  <lastmod>2021-11-08T23:11:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cemarloz.github.io/contact.html</loc>
+  <lastmod>2021-11-08T23:11:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cemarloz.github.io/about.html</loc>
+  <lastmod>2021-11-08T23:11:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
